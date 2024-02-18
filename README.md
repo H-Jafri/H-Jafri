@@ -1,8 +1,9 @@
 
-<div style="text-align: center;">
-    <img src="https://github.com/H-Jafri/H-Jafri/blob/main/giphy.gif" alt="Animated Logo">
-</div>
+
 <h1 align="center">Hi 👋, I'm Humayoon Jafri</h1>
+<div style=align="center;">
+    <img src="https://github.com/H-Jafri/H-Jafri/blob/main/giphy.gif" width="1200" height="300">
+</div>
 <h3 align="center">A passionate Data Scientist</h3>
 
 <img align="right" alt="datascience" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQZ9enVtLdCqPM4qF6rC1ElzeMT4NFURKy3AZYY9n8g&s">
