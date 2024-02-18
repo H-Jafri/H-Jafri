@@ -1,4 +1,7 @@
-![logo](https://github.com/H-Jafri/H-Jafri/blob/main/giphy.gif)
+
+<div style="text-align: center;">
+    <img src="https://github.com/H-Jafri/H-Jafri/blob/main/giphy.gif" alt="Animated Logo">
+</div>
 <h1 align="center">Hi 👋, I'm Humayoon Jafri</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
